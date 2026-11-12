@@ -18,7 +18,8 @@ app_futebol/build/
 # IDEs e Editores
 .idea/
 *.iml
-.vscode/
+.vscode/*
+!.vscode/settings.json
 app_futebol/.idea/
 app_futebol/*.iml
 
