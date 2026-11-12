@@ -1,0 +1,26 @@
+# Instruções de Deploy no Render (render.com)
+#
+# Opção 1: Manual no Dashboard do Render:
+# 1. Crie uma conta em https://render.com
+# 2. Clique em "New +" -> "Web Service"
+# 3. Conecte o repositório deste projeto no GitHub / GitLab
+# 4. Configure:
+#    - Name: api-arena-futstore (ou o nome de sua preferência)
+#    - Root Directory: api_futebol
+#    - Runtime: Node
+#    - Build Command: npm install
+#    - Start Command: npm start
+# 5. Clique em "Deploy Web Service".
+# 6. Copie a URL gerada (ex: https://api-arena-futstore.onrender.com)
+#    e cole no aplicativo na aba "Dados & Sacola" (Campo URL da API JSON).
+
+services:
+  - type: web
+    name: api-arena-futstore
+    runtime: node
+    rootDir: api_futebol
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production

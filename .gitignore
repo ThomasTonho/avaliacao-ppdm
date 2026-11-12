@@ -1,0 +1,27 @@
+# Dependências e arquivos temporários
+node_modules/
+api_futebol/node_modules/
+npm-debug.log*
+
+# Flutter e Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+app_futebol/.dart_tool/
+app_futebol/.flutter-plugins
+app_futebol/.flutter-plugins-dependencies
+app_futebol/build/
+.pub-cache/
+.pub/
+
+# IDEs e Editores
+.idea/
+*.iml
+.vscode/
+app_futebol/.idea/
+app_futebol/*.iml
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db

@@ -1,0 +1,132 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Camisa Flamengo I 26/27 Oficial",
+      "categoria": "Camisas",
+      "clube": "Flamengo",
+      "tipo": "promocao",
+      "desconto": 20,
+      "preco": 349.90,
+      "imagem": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/5w0tei1753637451.png",
+      "logoClube": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+      "descricao": "Manto oficial rubro-negro com tecido respirável de alta performance."
+    },
+    {
+      "id": "2",
+      "nome": "Camisa Corinthians Home Oficial",
+      "categoria": "Camisas",
+      "clube": "Corinthians",
+      "tipo": "regular",
+      "desconto": 0,
+      "preco": 329.90,
+      "imagem": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/5b7nve1767285372.png",
+      "logoClube": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+      "descricao": "Camisa titular alvinegra com escudo bordado em alta definição."
+    },
+    {
+      "id": "3",
+      "nome": "Camisa Palmeiras Campeão Home",
+      "categoria": "Camisas",
+      "clube": "Palmeiras",
+      "tipo": "promocao",
+      "desconto": 15,
+      "preco": 339.90,
+      "imagem": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/oswyld1749485127.png",
+      "logoClube": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+      "descricao": "Camisa alviverde oficial de jogo com tecnologia antissuor."
+    },
+    {
+      "id": "4",
+      "nome": "Camisa Real Madrid Campeões",
+      "categoria": "Camisas",
+      "clube": "Real Madrid",
+      "tipo": "regular",
+      "desconto": 0,
+      "preco": 399.90,
+      "imagem": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/gntr911750591256.png",
+      "logoClube": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+      "descricao": "Uniforme merengue oficial versão jogador para competições internacionais."
+    },
+    {
+      "id": "5",
+      "nome": "Camisa São Paulo Tricolor Oficial",
+      "categoria": "Camisas",
+      "clube": "São Paulo",
+      "tipo": "promocao",
+      "desconto": 10,
+      "preco": 319.90,
+      "imagem": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/ghoakb1749479993.png",
+      "logoClube": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+      "descricao": "Manto tricolor tradicional com listras horizontais e escudo bordado."
+    },
+    {
+      "id": "6",
+      "nome": "Camisa Barcelona Blaugrana Pro",
+      "categoria": "Camisas",
+      "clube": "Barcelona",
+      "tipo": "regular",
+      "desconto": 0,
+      "preco": 389.90,
+      "imagem": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/0q7g8e1754426630.png",
+      "logoClube": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+      "descricao": "Uniforme oficial azul-grená edição liga com escudo em relevo."
+    }
+  ],
+  "clubes": [
+    {
+      "id": "1",
+      "nome": "Flamengo",
+      "estadio": "Estádio do Maracanã",
+      "anoFundacao": "1895",
+      "pais": "Brasil",
+      "escudo": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+      "uniforme": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/5w0tei1753637451.png"
+    },
+    {
+      "id": "2",
+      "nome": "Corinthians",
+      "estadio": "Neo Química Arena",
+      "anoFundacao": "1910",
+      "pais": "Brasil",
+      "escudo": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+      "uniforme": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/5b7nve1767285372.png"
+    },
+    {
+      "id": "3",
+      "nome": "Palmeiras",
+      "estadio": "Allianz Parque",
+      "anoFundacao": "1914",
+      "pais": "Brasil",
+      "escudo": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+      "uniforme": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/oswyld1749485127.png"
+    },
+    {
+      "id": "4",
+      "nome": "São Paulo",
+      "estadio": "MorumBIS",
+      "anoFundacao": "1930",
+      "pais": "Brasil",
+      "escudo": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+      "uniforme": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/ghoakb1749479993.png"
+    },
+    {
+      "id": "5",
+      "nome": "Real Madrid",
+      "estadio": "Santiago Bernabéu",
+      "anoFundacao": "1902",
+      "pais": "Espanha",
+      "escudo": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+      "uniforme": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/gntr911750591256.png"
+    },
+    {
+      "id": "6",
+      "nome": "Barcelona",
+      "estadio": "Spotify Camp Nou",
+      "anoFundacao": "1899",
+      "pais": "Espanha",
+      "escudo": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+      "uniforme": "https://wsrv.nl/?url=https://r2.thesportsdb.com/images/media/team/equipment/0q7g8e1754426630.png"
+    }
+  ]
+}
